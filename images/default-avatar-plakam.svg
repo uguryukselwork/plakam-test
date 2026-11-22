@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="plakamBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#041D42" />
+      <stop offset="100%" stop-color="#001029" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#plakamBg)" />
+  <g fill="none" stroke="rgba(255,255,255,0.88)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" transform="translate(0, -14)">
+    <circle cx="128" cy="98" r="28" />
+    <path d="M74 166c0-25.5 24.2-44 54-44s54 18.5 54 44" />
+  </g>
+  <text
+    x="128"
+    y="196"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-size="30"
+    font-weight="900"
+    font-style="italic"
+    letter-spacing="-0.5"
+    fill="rgba(255,255,255,0.92)"
+  >
+    PLAKAM<tspan fill="#F5A623">.</tspan>
+  </text>
+</svg>
